@@ -28,7 +28,7 @@ class Variable{
 
         //4.program tv
         double tv_cost = 2500.0;
-        String tv_brand= "IQOO neo 10R", tv_type = "White";
+        String tv_brand= "Sony", tv_type = "LED";
         System.out.println("\n\nTV cost:"+ tv_cost);
         System.out.println("TV brand:"+ tv_brand);
         System.out.println("TV type: "+ tv_type); 
