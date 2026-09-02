@@ -20,7 +20,7 @@ class Variable{
 
         //3.school
         int strength = 60;
-        String sname = "IQOO neo 10R" ;
+        String sname = "Jspiders" ;
         char grade = 'A';
         System.out.println("\n\nSchool Strength:"+ strength);
         System.out.println("School name:"+ sname);
