@@ -1,6 +1,7 @@
 class Variable{
     public static void main(String[] args) {
 
+        // for other seperate programs create diff .java file to execute
         //1.program mobile
         double mcost = 25000.0;
         String mname = "IQOO neo 10R", mcolor = "White";
