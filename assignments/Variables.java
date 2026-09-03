@@ -76,6 +76,5 @@ class Variable{
         System.out.println("\n\ncloth color :"+ cloth_color );
         System.out.println("cloth size :"+cloth_size );
         System.out.println("Cloth cost :"+cloth_cost);
-
     }
 }
